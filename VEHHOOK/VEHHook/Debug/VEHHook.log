@@ -1,0 +1,16 @@
+﻿  VHook.cpp
+c:\program files (x86)\windows kits\8.1\include\um\imagehlp.h(1873): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+c:\program files (x86)\windows kits\8.1\include\um\imagehlp.h(3519): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+e:\driver_project\zj\zj5\zx\vehhook\vehhook\vhook.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+e:\driver_project\zj\zj5\zx\vehhook\vehhook\vhook.cpp(211): warning C4838: 从“int”转换到“char”需要收缩转换
+e:\driver_project\zj\zj5\zx\vehhook\vehhook\vhook.cpp(211): warning C4309: “初始化”: 截断常量值
+e:\driver_project\zj\zj5\zx\vehhook\vehhook\vhook.cpp(226): warning C4838: 从“int”转换到“char”需要收缩转换
+e:\driver_project\zj\zj5\zx\vehhook\vehhook\vhook.cpp(226): warning C4309: “初始化”: 截断常量值
+e:\driver_project\zj\zj5\zx\vehhook\vehhook\vhook.cpp(243): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  VEHHook.cpp
+  stdafx.cpp
+  AsmCode.cpp
+  正在生成代码...
+AsmCode.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+  VEHHook.vcxproj -> E:\driver_project\zj\zj5\zx\VEHHook\Debug\VEHHook.exe
+  VEHHook.vcxproj -> E:\driver_project\zj\zj5\zx\VEHHook\Debug\VEHHook.pdb (Full PDB)
